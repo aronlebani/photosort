@@ -1,26 +1,19 @@
-#--------------------------------------------------------------
+#
 # photosort.py
-# Version x
-#
-# Changes from version y
-#	* 
-#
-# Known bugs
-#	*
 #
 # To Do:
 #	* Fix bug when creating new directories
 #	* Check if Thumbs bug is fixed
 #
-# For documentation, see readme.txt
+# For documentation, see README.md
 #
 # Aron Lebani
 # 23 January 2017
 #
 # aron.lebani@gmail.com
 #
-# Copyright (C) 2017 by Aron Lebani
-#--------------------------------------------------------------
+# Copyright (c) 2017 by Aron Lebani
+#
 
 from PIL import Image
 from PIL import ExifTags
